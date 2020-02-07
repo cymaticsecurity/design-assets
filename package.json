@@ -1,0 +1,20 @@
+{
+  "name": "design-assets",
+  "version": "1.0.0",
+  "description": "Cymatic design assets",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:cymaticsecurity/design-assets.git"
+  },
+  "keywords": [
+    "icons",
+    "images",
+    "fonts"
+  ],
+  "author": "Julio Ponce",
+  "license": "ISC",
+  "homepage": "https://github.com/cymaticsecurity/design-assets#readme"
+}
