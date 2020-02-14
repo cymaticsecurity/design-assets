@@ -2,6 +2,7 @@
   "name": "design-assets",
   "version": "1.0.0",
   "description": "Cymatic design assets",
+  "main": "",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:cymaticsecurity/design-assets.git"
@@ -11,7 +12,7 @@
     "images",
     "fonts"
   ],
-  "author": "Cymatic Security Inc.",
+  "author": "Julio Ponce",
   "license": "ISC",
   "homepage": "https://github.com/cymaticsecurity/design-assets#readme"
 }
