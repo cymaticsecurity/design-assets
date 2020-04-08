@@ -22,6 +22,6 @@
       <path d="M37 33l12-14H25z"/>
       <path d="M37 15l-10 6h20z"/>
     </g>
-    <path id="eyes" fill="#FFF" d="M14 5l10.012 12L29 9.201zM61 5L46 9.201 50.986 17z"/>
+    <path id="eyes" fill="currentColor" d="M14 5l10.012 12L29 9.201zM61 5L46 9.201 50.986 17z"/>
   </g>
 </svg>
