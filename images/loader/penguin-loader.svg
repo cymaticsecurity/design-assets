@@ -1,0 +1,14 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 76 42"
+>
+  <g id="penguin-head">
+    <path id="face" fill="#000" stroke="#FFF" stroke-width="2" d="M37.5 39L72 1H3z"/>
+    <g id="beak" fill="#F15A24">
+      <path d="M37 33l12-14H25z"/>
+      <path d="M37 15l-10 6h20z"/>
+    </g>
+    <path id="eyes" fill="currentColor" d="M14 5l10.012 12L29 9.201zM61 5L46 9.201 50.986 17z"/>
+  </g>
+</svg>
