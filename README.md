@@ -1,6 +1,7 @@
-# Cymatic design assets
+# Design Assets
 
 ## Set up
-```
-npm install git+ssh://git@github.com:cymaticsecurity/design-assets.git#master --save 
+
+```sh
+npm install --save git+ssh://git@github.com:cymaticsecurity/design-assets.git#master
 ```
