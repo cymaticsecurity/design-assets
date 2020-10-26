@@ -1,0 +1,52 @@
+<svg width="642" height="724" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0" x2="0.5" y1="1" x1="0.5" id="e5da6213-051c-4da8-b1b3-926fff123e76">
+   <stop stop-opacity="0.25" stop-color="gray" offset="0"/>
+   <stop stop-opacity="0.12" stop-color="gray" offset="0.54"/>
+   <stop stop-opacity="0.1" stop-color="gray" offset="1"/>
+  </linearGradient>
+ </defs>
+ <title>onboarding</title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="726" width="644" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon id="svg_26" fill="url(#e5da6213-051c-4da8-b1b3-926fff123e76)" points="67.6300048828125,8.830001831054688 67.6300048828125,36.209999084472656 67.6300048828125,714.2899780273438 575.030029296875,714.2899780273438 575.030029296875,36.209999084472656 575.030029296875,8.830001831054688 67.6300048828125,8.830001831054688 "/>
+  <rect id="svg_27" fill="#f6f7f9" height="26.89" width="498.5" y="15.02" x="72.08"/>
+  <g id="svg_28" opacity="0.2">
+   <rect id="svg_29" fill="#f15a24" height="26.89" width="498.5" y="15.02" x="72.08"/>
+  </g>
+  <rect id="svg_30" fill="#f6f7f9" height="666.19" width="498.5" y="41.91" x="72.08"/>
+  <circle id="svg_31" fill="#f6f7f9" r="4.56" cy="28.47" cx="85.19"/>
+  <circle id="svg_32" fill="#f6f7f9" r="4.56" cy="28.47" cx="97.55"/>
+  <circle id="svg_33" fill="#f6f7f9" r="4.56" cy="28.47" cx="109.91"/>
+  <g id="svg_34" opacity="0.2">
+   <rect id="svg_35" fill="#f15a24" height="12.55" width="320.55" y="82.98" x="161.05"/>
+  </g>
+  <rect id="svg_36" fill="#f15a24" height="12.55" width="42.59" y="82.98" x="439.01"/>
+  <g id="svg_37" opacity="0.2">
+   <rect id="svg_38" fill="#f15a24" height="144.49" width="403.44" y="154.47" x="119.61"/>
+  </g>
+  <rect id="svg_39" fill="#f6f7f9" height="12.55" width="232.71" y="207.13" x="232.83"/>
+  <rect id="svg_40" fill="#f6f7f9" height="12.55" width="120.73" y="233.75" x="232.83"/>
+  <rect id="svg_41" fill="#f15a24" height="12.55" width="42.59" y="271.77" x="439.01"/>
+  <circle id="svg_42" fill="#f6f7f9" r="22.81" cy="226.71" cx="168.28"/>
+  <g id="svg_43" opacity="0.2">
+   <rect id="svg_44" fill="#f15a24" height="144.49" width="403.44" y="339.46" x="119.61"/>
+  </g>
+  <rect id="svg_45" fill="#f6f7f9" height="12.55" width="232.71" y="392.12" x="232.83"/>
+  <rect id="svg_46" fill="#f6f7f9" height="12.55" width="120.73" y="418.74" x="232.83"/>
+  <rect id="svg_47" fill="#f15a24" height="12.55" width="42.59" y="456.76" x="439.01"/>
+  <circle id="svg_48" fill="#f6f7f9" r="22.81" cy="411.7" cx="168.28"/>
+  <g id="svg_49" opacity="0.2">
+   <rect id="svg_50" fill="#f15a24" height="144.49" width="403.44" y="524.45" x="119.61"/>
+  </g>
+  <rect id="svg_51" fill="#f6f7f9" height="12.55" width="232.71" y="577.11" x="232.83"/>
+  <rect id="svg_52" fill="#f6f7f9" height="12.55" width="120.73" y="603.73" x="232.83"/>
+  <rect id="svg_53" fill="#f15a24" height="12.55" width="42.59" y="641.75" x="439.01"/>
+  <circle id="svg_54" fill="#f6f7f9" r="22.81" cy="596.69" cx="168.28"/>
+  <path id="svg_66" stroke-miterlimit="10" stroke="blue" fill="none" d="m587.39,419.03"/>
+ </g>
+</svg>
